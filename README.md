@@ -1,2 +1,2 @@
 # App_Images
-Application Images uses as icons in Intune
+Images that can be used as icons in Intune.
